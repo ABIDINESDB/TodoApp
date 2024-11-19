@@ -1,6 +1,6 @@
-# React + Vite
+# Todo List 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Voici une Application de Todo list créer en React (javaScrypt) c'est juste une app pour metre en pratique mes connaissances en developement web avec je frameWork React Js.
 
 Currently, two official plugins are available:
 
